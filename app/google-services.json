@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045058518879",
+    "project_id": "mati-73038",
+    "storage_bucket": "mati-73038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045058518879:android:9bcc01fdd05ce49718c0ea",
+        "android_client_info": {
+          "package_name": "com.thinkbold.mat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045058518879-c441aui3mhq9a14ooaul9fdgkn9rbccl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHgoiWJeEvK7Qa4LHR4Xs9Fl7MUUguacA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045058518879-c441aui3mhq9a14ooaul9fdgkn9rbccl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

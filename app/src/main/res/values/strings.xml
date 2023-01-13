@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MATI</string>
+    <string name="mat_website">MATI Website</string>
+    <string name="mat_college_website">Institutes Website</string>
+    <string name="mat_mis">MATI SMIS</string>
+    <string name="mat_home">HOME</string>
+    <string name="mat_core">MATI</string>
+    <string name="mat_colleges">Colleges</string>
+    <string name="mat_intro">Welcome to MATIs Mobile Portal. \nThe portal will provide you the access to MAT website and MATI Institutes website</string>
+    <string name="versionno">Version 1.0.0</string>
+    <string name="copyright">&#169; MATI 2021</string>
+
+    <string name="mat_tengeru">MATI Horticulture-Tengeru</string>
+    <string name="mat_tengeru_website">www.tengeru.kilimo.go.tz</string>
+    <string name="mat_igurusi">MATI Igurusi</string>
+    <string name="mat_igurusi_website">www.igurusi.kilimo.go.tz</string>
+    <string name="mat_ilonga">MATI Ilonga</string>
+    <string name="mat_ilonga_website">www.ilonga.kilimo.go.tz</string>
+    <string name="mat_inyara">MATI Inyara</string>
+    <string name="mat_inyara_website">www.inyara.kilimo.go.tz</string>
+    <string name="mat_katrin">MATI KATRIN</string>
+    <string name="mat_katrin_website">www.katrin.kilimo.go.tz</string>
+    <string name="mat_katc">MATI KATC</string>
+    <string name="mat_katc_website">www.katc.kilimo.go.tz</string>
+    <string name="mat_maruku">MATI Maruku</string>
+    <string name="mat_maruku_website">www.maruku.kilimo.go.tz</string>
+    <string name="mat_mlingano">MATI Mlingano</string>
+    <string name="mat_mlingano_website">www.mlingano.kilimo.go.tz</string>
+    <string name="mat_mtwara">MATI Mtwara</string>
+    <string name="mat_mtwara_website">www.mtwara.kilimo.go.tz</string>
+    <string name="mat_mubondo">MATI Mubondo</string>
+    <string name="mat_mubondo_website">www.mubondo.kilimo.go.tz</string>
+    <string name="mat_nsi">MATI NSI</string>
+    <string name="mat_nsi_website">www.katc.kilimo.go.tz</string>
+    <string name="mat_tumbi">MATI TUMBI</string>
+    <string name="mat_tumbi_website">www.tumbi.kilimo.go.tz</string>
+    <string name="mat_ukiriguru">MATI Ukiriguru</string>
+    <string name="mat_ukiriguru_website">www.ukirigiru.kilimo.go.tz</string>
+    <string name="mat_uyole">MATI Uyole</string>
+    <string name="mat_uyole_website">www.uyole.kilimo.go.tz</string>
+
+
+</resources>
